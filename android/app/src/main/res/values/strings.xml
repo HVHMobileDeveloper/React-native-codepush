@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">LibDemo</string>
+    <string moduleConfig="true" name="CodePushDeploymentKey">yuIeTFXEwHFffMph9U61HFEtLBnPBSkb8lJ1f</string>
+    <string name="CodePushPublicKey">-----BEGIN PUBLIC KEY-----
+MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAtwsx+S90arBjwZ1XDe8Q
+3q+H8OHt157A3u5EZztj2+jB4vUAEB/+tKZbiuCfCLwReUDul6TuTEygfZXJNd1j
+ThSrGAS6TTMYpiIcPvp9WueKyn3rFwI2Nn/jKzBUNSmgzMB4EUhuBb8aMaez7wl6
+y+dDK/2Dj1U3ZBvXpIJwX+MoMJyoKYWfTnQ/jDtHObKVwubsFluE6+dUOU0b3O7p
+dHlWxqpDhxco7CDOUSE37RUcmX97Bw4NlsEW3k33dgqpB0lDOv4QezV1ThNKF2y9
+260Ju6Da1bsnlQld1AHfdWNuRF006tax8su0JYVExNMN8KJwOqbXoiHYThUgQjSX
+jQIDAQAB
+-----END PUBLIC KEY-----
+</string>
+</resources>
